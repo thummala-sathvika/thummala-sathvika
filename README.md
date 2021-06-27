@@ -34,4 +34,7 @@
   <img src="https://pbs.twimg.com/profile_images/839168408490913792/ukNPeWwa_400x400.jpg" alt="Lt-spice" height="40" style="vertical-align:top; margin:7px">
   <img src="http://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Lt-spice" height="40" style="vertical-align:top; margin:7px">
 
+
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thummala-sathvika&show_icons=true&theme=tokyonight)
