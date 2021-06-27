@@ -7,13 +7,14 @@
 - 📫 How to reach me: thummalasathvika@gmail.com
 - ⚡ Fun fact: I love to play badminton
 
-## ✉️ Find me on:
+
 
 <h1>Find me on:</h1>
+
 <p align="center">
 
- <a href="https://www.linkedin.com/in/thummala-sathvika-8785681a2/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:7px"></a>
- <a href="thummalasathvika@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Python" height="40" style="vertical-align:top; margin:7px"></a>
+ <a href="https://www.linkedin.com/in/thummala-sathvika-8785681a2/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:7px"; padding: 35px;></a>
+ <a href="thummalasathvika@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Python" height="40" style="vertical-align:top; margin:7px" padding: 35px;></a>
 </p>
 
 <br />
