@@ -26,9 +26,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" height="40" style="vertical-align:top; margin:7px">
 <img src="https://ubuntuhandbook.org/wp-content/uploads/2016/05/codeblocks-ide-icon.png" alt="Code::Blocks" height="40" style="vertical-align:top; margin:7px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png" height="40" style="vertical-align:top; margin:7px">
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Keil" height="40" style="vertical-align:top; margin:7px">
  <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/icons/atmel_studio.png?itok=Y_BrK5R2" alt="Atmel-studio" height="40" style="vertical-align:top; margin:7px">
  <img src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png" alt="Arduino-IDE" height="40" style="vertical-align:top; margin:7px">
- <img src="http://file.elecfans.com/web1/M00/4E/CE/o4YBAFrLEZCAcHBHAAAlI7PhAhc373.jpg" alt="Keil" height="40" style="vertical-align:top; margin:7px">
+
+  <img src="https://pbs.twimg.com/profile_images/839168408490913792/ukNPeWwa_400x400.jpg" alt="Lt-spice" height="40" style="vertical-align:top; margin:7px">
  
  
 </p>
