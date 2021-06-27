@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I love to play badminton
 
 
+![](https://visitor-badge.laobi.icu/badge?page_id=thummala-sathvika.thummala-sathvika)
 
 <h1>Find me on:</h1>
 
