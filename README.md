@@ -21,7 +21,7 @@
 
 
 <h1>Tools</h1>
-<p align="center">
+<p>
 <img src="https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" alt="Easy-EDA" height="40" style="vertical-align:top; margin:7px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" height="40" style="vertical-align:top; margin:7px">
 <img src="https://ubuntuhandbook.org/wp-content/uploads/2016/05/codeblocks-ide-icon.png" alt="Code::Blocks" height="40" style="vertical-align:top; margin:7px">
