@@ -37,4 +37,7 @@
 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thummala-sathvika&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thummala-sathvika&show_icons=true&theme=vue-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thummala-sathvika&theme=vue-dark)
+
